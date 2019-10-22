@@ -1,0 +1,16 @@
+.table{
+   border: 0.5px solid black;
+}
+.index{
+  border-right: 0.5px solid black;
+  width:5%;
+}
+.name{
+  width:20%;
+}
+.text{
+  color:#6d96e8;
+}
+.bottom{
+  border-bottom: 2px solid black;
+}
